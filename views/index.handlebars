@@ -1,0 +1,22 @@
+<div class="tagline">
+    <p>Were we let in for our looks? No. Will we be judged on them? Yes.</p>
+</div>
+
+<div class="comparison-container">
+    {{#if error}}
+    <div class="error-message">
+        {{error}}
+    </div>
+    {{else}}
+        {{#each photos}}
+        <div class="photo-card" data-id="{{this._id}}">
+            <img src="{{this.path}}" alt="{{this.name}}">
+            <div class="photo-name">{{this.name}}</div>
+        </div>
+        {{/each}}
+    {{/if}}
+</div>
+
+<div class="instructions">
+    <p>Who's Hotter? Click to Choose.</p>
+</div>

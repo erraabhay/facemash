@@ -1,0 +1,40 @@
+{
+    "images": [
+        {
+            "name": "poojitha reddy",
+            "filename": "photo1.jpg",
+            "phto_url": "E:\\images\\photo1.jpg",
+            "elo_score": 1400
+        },
+        {
+            "name": "devika shettie",
+            "filename": "photo2.jpg",
+            "phto_url": "E:\\images\\photo2.jpg",
+            "elo_score": 1400
+        },
+        {
+            "name": "mythili",
+            "filename": "photo3.jpg",
+            "phto_url": "E:\\images\\photo3.jpg",
+            "elo_score": 1400
+        },
+        {
+            "name": "shrija",
+            "filename": "photo4.jpg",
+            "phto_url": "E:\\images\\photo4.jpg",
+            "elo_score": 1400
+        },
+        {
+            "name": "sahasra",
+            "filename": "photo5.jpg",
+            "phto_url": "E:\\images\\photo5.jpg",
+            "elo_score": 1400
+        },
+        {
+            "name": "sssss",
+            "filename": "photo1735306123642-482521792.png",
+            "phto_url": "E:\\images\\photo1735306123642-482521792.png",
+            "elo_score": 1400
+        }
+    ]
+}

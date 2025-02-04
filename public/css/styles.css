@@ -1,0 +1,7 @@
+.ranking-item {
+    transition: all 0.3s ease-in-out;
+}
+
+.ranking-info span {
+    transition: all 0.3s ease-in-out;
+} 
