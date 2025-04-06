@@ -133,8 +133,4 @@ Made with ❤️ by [abhay](https://github.com/erraabhay)
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
-```
 
----
-
-You can tweak the screenshot section, add GIFs, or even deploy it on **Render**, **Vercel**, or **Glitch** and drop a live link in the readme
