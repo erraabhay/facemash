@@ -1,10 +1,5 @@
 # facemash
  
-
-
-```markdown
-# 🔥 FaceMash 
-
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![Made With Node](https://img.shields.io/badge/Backend-Node.js-blue)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
