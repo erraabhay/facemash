@@ -11,12 +11,7 @@ A modern **Facemash** clone where users vote between two random faces. Inspired 
 
 ---
 
-## 📸 Live Preview
 
-> _Optional: Add a demo link or screenshot here_  
-> ![Screenshot](public/assets/screenshot.png)
-
----
 
 ## 🚀 Features
 
@@ -73,8 +68,8 @@ facemash-replica/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/facemash-replica.git
-cd facemash-replica
+git clone https://github.com/erraabhay/facemash.git
+cd facemash
 ```
 
 ### 2. Install dependencies
